@@ -12,8 +12,6 @@ A Python-based tool to download YouTube clips (`/clip/`) directly as `.mp4` file
 - 🧠 Automatic naming if none is specified
 ---
 
----
-
 ## ▶️ Usage
 
 ```bash
