@@ -12,6 +12,16 @@ A Python-based tool to download YouTube clips (`/clip/`) directly as `.mp4` file
 - 🧠 Automatic naming if none is specified
 ---
 
+---
+
+## ▶️ Usage
+
+```bash
+python script.py
+```
+Download https://github.com/jakineru/youtube-clipper/releases/tag/YouTubeClipper
+
+
 ## 📦 Requirements
 
 You need to have the following installed:
@@ -68,14 +78,6 @@ ffmpeg -version
 ```
 
 If information appears → Ready
-
----
-
-## ▶️ Usage
-
-```bash
-python script.py
-```
 
 ---
 
