@@ -1,6 +1,6 @@
 # 🎬 YouTube Clipper
 
-A Python tool to download YouTube clips (`/clip/`) directly as `.mp4` files, quickly, easily, and without downloading the entire video.
+A Python-based tool to download YouTube clips (`/clip/`) directly as `.mp4` files, quickly, easily, and without downloading the entire video.
 
 ---
 
